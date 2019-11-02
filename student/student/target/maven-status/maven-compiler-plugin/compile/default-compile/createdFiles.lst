@@ -1,0 +1,12 @@
+com\app\student\exception\BadRequestException.class
+com\app\student\model\IById.class
+com\app\student\model\Student.class
+com\app\student\util\ConditionCheck.class
+com\app\student\repository\StudentRepository.class
+com\app\student\StudentApplication.class
+com\app\student\controller\StudentController.class
+com\app\student\exception\ResourceNotFoundException.class
+com\app\student\model\ErrorDetail.class
+com\app\student\controller\StudentExceptionHandler.class
+com\app\student\service\StudentService.class
+com\app\student\model\IBaseModel.class
