@@ -24,7 +24,7 @@ public class UserController {
 	
 	@GetMapping
 	public String helloString() {
-		return "Hello User";
+		return "Hello User2";
 	}
 	
 	@PostMapping
